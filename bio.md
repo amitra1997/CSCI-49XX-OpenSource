@@ -4,6 +4,6 @@ email: mitraa3@rpi.edu
 
 git: amitra1997
 
-slack: TBD
+slack: amitra
 
 ![Profile Picture](../Images/IMG_6247.jpg)
