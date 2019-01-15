@@ -10,3 +10,5 @@ d.3.
 e.2. ![Practice Problems](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-15%20at%2012.45.29%20PM.png)
 
 e.3. ![Beginner Problems](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-15%20at%2012.54.06%20PM.png)
+
+f.2. ![Blockly](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-15%20at%201.03.40%20PM.png)
