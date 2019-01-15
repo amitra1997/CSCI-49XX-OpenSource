@@ -6,4 +6,4 @@ git: amitra1997
 
 slack: amitra
 
-![Profile Picture](../Images/IMG_6247.jpg)
+![Profile Picture](Images/IMG_6247.jpg)
