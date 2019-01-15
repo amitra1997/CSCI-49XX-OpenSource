@@ -6,4 +6,4 @@ git: amitra1997
 
 slack: TBD
 
-![alt text](http:/)
+![Profile Picture](../Images/IMG_6247.jpg)
