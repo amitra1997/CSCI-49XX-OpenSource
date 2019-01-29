@@ -37,4 +37,16 @@ Tasty Tracks:
 
 Gitstats provides a far more in-depth look into the github activity than manually going through the repository for statistics. They are laid out in a nice manner that is easy to comprehend. I did not find anything particularly suprising, but am attaching a screenshot of Submitty because the heatmap and its activity levels are humungous!
 
-![git log]()
+![Submitty gitstats](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.26.37%20PM.png)
+
+![StillGood Youtube]
+(https://youtu.be/b9gNicljKtU)
+
+![Subman Youtube]
+(https://youtu.be/HRG0_hQNrxg)
+
+![Submitty Screenshot - Too Big for Youtube]
+(https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.45.21%20PM.png)
+
+![TastyTracks Youtube]
+(https://youtu.be/-fc9GqYy0QU)
