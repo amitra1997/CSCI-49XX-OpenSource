@@ -50,7 +50,7 @@
    First Commit: Initial
 
    Latest Commit: Last
-   
+
    Current Branches: master
 
 1.7. From GitStats: 
@@ -59,11 +59,13 @@ Gitstats provides a far more in-depth look into the github activity than manuall
 
 ![Submitty gitstats](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.26.37%20PM.png)
 
-![StillGood Youtube](https://youtu.be/b9gNicljKtU)
+[StillGood Youtube](https://youtu.be/b9gNicljKtU)
 
-![Subman Youtube](https://youtu.be/HRG0_hQNrxg)
+[Subman Youtube](https://youtu.be/HRG0_hQNrxg)
 
 Submitty:
-![Submitty Screenshot - Too Big for Youtube](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.45.21%20PM.png)
+[Submitty Screenshot - Too Big for Youtube](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.45.21%20PM.png)
 
-![TastyTracks Youtube](https://youtu.be/-fc9GqYy0QU)
+[TastyTracks Youtube](https://youtu.be/-fc9GqYy0QU)
+
+I would say that all the projects besides Submitty are too small to have anyone but a "leader". StillGood only has one contributor, Jallibad, who is the leader there. Subman's leader is ChBoyShPd, who is the only contributor for that repository. Submitty is led by Barb Cutler, who claims 20% of the commits (more than any other contributor). Finally, TastyTracks is led by justinbot, it's only contributor. Finally, syllabad has no commits, and no real leader yet.
