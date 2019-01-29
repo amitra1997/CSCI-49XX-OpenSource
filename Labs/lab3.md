@@ -1,6 +1,6 @@
 # Part 0:
 
-
+![LaTeX Equations](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.16.33%20PM.png)
 
 # Part 1:
 
