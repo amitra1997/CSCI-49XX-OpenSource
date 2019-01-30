@@ -12,6 +12,38 @@ class TestMarkdownPy(unittest.TestCase):
     def setUp(self):
         pass
 
+    def test_H1(self):
+        '''
+        Lines beginning with # should be wrapped in h1 tags
+        '''
+        self.assertEqual( 
+                run_markdown('**this should be wrapped in h1 tags**'),
+                '<h1>this should be wrapped in h1 tags</h1>')
+
+     def test_H2(self):
+         '''
+        Lines beginning with ## should be wrapped in h2 tags
+        '''
+        self.assertEqual( 
+                run_markdown('**this should be wrapped in h2 tags**'),
+                '<h2>this should be wrapped in h2 tags</h2>')
+
+    def test_H3(self):
+        '''
+        Lines beginning with ### should be wrapped in h3 tags
+        '''
+        self.assertEqual( 
+                run_markdown('**this should be wrapped in h3 tags**'),
+                '<h3>this should be wrapped in h3 tags</h3>')
+
+    def test_Block(self):
+        '''
+        Lines beginning with > should be wrapped in blockquote tags
+        '''
+        self.assertEqual( 
+                run_markdown('**this should be wrapped in blockquote tags**'),
+                '<blockquote>this should be wrapped in blockquote tags</blockquote>')
+
     def test_non_marked_lines(self):
         '''
         Non-marked lines should only get 'p' tags around all input

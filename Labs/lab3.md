@@ -11,9 +11,9 @@
 
    Lines of Code: 478
 
-   First Commit: Initial
+   First Commit: 1/21/19
 
-   Latest Commit: Last
+   Latest Commit: 1/25/19
 
    Current Branches: master
 
@@ -22,9 +22,9 @@
 
    Lines of Code: 396
 
-   First Commit: Initial
+   First Commit: 1/22/19
 
-   Latest Commit: Last
+   Latest Commit: 1/22/19
 
    Current Branches: master
 
@@ -33,9 +33,9 @@
 
    Lines of Code: 425,431
 
-   First Commit: Initial
+   First Commit: Too far to see
 
-   Latest Commit: Last
+   Latest Commit: 1/28/19
 
    Current Branches: 58 of them, not listing them out
 
@@ -55,9 +55,9 @@
 
    Lines of Code: 1565
 
-   First Commit: Initial
+   First Commit: 1/21/19
 
-   Latest Commit: Last
+   Latest Commit: 1/27/19
 
    Current Branches: master
 

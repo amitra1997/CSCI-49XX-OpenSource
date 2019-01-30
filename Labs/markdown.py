@@ -22,9 +22,29 @@ def convertEm(line):
   line = re.sub(r'_(.*)_', r'<em>\1</em>', line)
   return line
 
+def convertH1(line):
+  line = re.sub(r'\#(.*)', r'<h1>\1</h1>', line)
+  return line
+
+def convertH2(line):
+  line = re.sub(r'\#\#(.*)', r'<h2>\1</h2>', line)
+  return line
+
+def convertH3(line):
+  line = re.sub(r'\#\#\#(.*)', r'<h3>\1</h3>', line)
+  return line  
+
+def convertBlock(line):
+  line = re.sub(r'\>(.*)\*', r'<blockquote>\1</blockquote>', line)
+  return line  
+
 for line in fileinput.input():
   line = line.rstrip() 
   line = convertStrong(line)
   line = convertEm(line)
+  line = convertH1(line)
+  line = convertH2(line)
+  line = convertH3(line)
+  line = convertBlock(line)
   print '<p>' + line + '</p>',
 
