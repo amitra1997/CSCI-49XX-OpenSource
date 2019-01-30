@@ -71,7 +71,6 @@ Gitstats provides a far more in-depth look into the github activity than manuall
 
 [Subman Youtube](https://youtu.be/HRG0_hQNrxg)
 
-Submitty:
 [Submitty Screenshot - Too Big for Youtube](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Images/Screen%20Shot%202019-01-29%20at%201.45.21%20PM.png)
 
 [TastyTracks Youtube](https://youtu.be/-fc9GqYy0QU)
