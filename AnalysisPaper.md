@@ -106,6 +106,7 @@ https://groups.google.com/forum/#!forum/submitty
 
 ##### Development Team
 submitty@cs.rpi.edu
+
 submitty-admin@googlegroups.com
 
 #### User Base
