@@ -8,7 +8,7 @@ Submitty is RPI's open source program assignment submission system.
 Evaluation Factor | Level (0-2) | Evaluation Data 
 |:-|:-:|:-|
 | **Licensing** | 2 | Submitty uses the BSD 3-Clause License, which is approved by the OSI |
-| **Language** | 1 | 1. PHP: 32.2% 2. HTML: 22.8% 3. JavaScript: 15.3% |
+| **Language** | 1 | 1. PHP: 32.2%   2. HTML: 22.8%   3. JavaScript: 15.3% |
 | **Level of Activity**| 2 | All 4 quarters in the last year were active |
 | **Number of Contributers**| 2 | Submitty has 69 contributors |
 | **Product Size**| 2 | Submitty is 36.52 MB | 
