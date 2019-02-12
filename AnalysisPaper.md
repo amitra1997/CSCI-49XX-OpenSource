@@ -56,10 +56,16 @@ Evaluation Factor | Level (0-2) | Evaluation Data
 | **Total Score** | - | 17 |
  
 ## Part 2
-
 In this section I further analyze Submitty.
 
+### Goal
+Submitty strives to build a homework submission, automated grading and TA/instructor grading system. 
+
+### Significance
+Submitty is one of the most impactful open source projects on campus at RPI. Every student who takes a computer science course with code homework submission uses it to quickly and reliably submit homework assignments for grading. TAs and Professors depend on the software to automatically grade these assignments accurately when applicable, while also screening all assignments for plagiarism. Given that computer science is the largest single major declared on RPI's campus, Submitty's scope of usage is very large. It saves students and TAs/Professors hours of work in hand grading. It provides an easy way to submit homework, with quick and automated feedback to avoid unnecessary confusion. Submitty's importance to the computer science department at Rensselaer can not be emphasized enough.
+
 #### Licensing
+
 
 #### Language
 
@@ -76,3 +82,7 @@ In this section I further analyze Submitty.
 #### Community Norms
 
 #### User Base
+
+
+### Personal Appeal
+Although Submitty did not score as highly as Chromium when using the foss2serve rubric, I still found it to be the most appealing project. There are certain categories I value far more than others, such as scope of the project (project size) and personal affinity to the project (user base), even though on the foss2serve rubric all categories are ranked equally from 0 to 2. I would like to contribute to a project in a way where I can make a significant impact, to a user base that I care about. Submitty offers that solution. While the language it is written in may not be ideal for my purposes, I have confidence that I can quickly learn and adapt. 
