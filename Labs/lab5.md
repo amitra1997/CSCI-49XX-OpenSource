@@ -9,7 +9,7 @@ project(Tutorial)
 
 add_executable(Tutorial tutorial.cxx)
 ```
-![https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step1.png]
+![Step1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step1.png)
 ## Step 2: 
 
 Main:
@@ -47,7 +47,7 @@ Math Functions:
 ```
 add_library(MathFunctions mysqrt.cxx)
 ```
-![https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step2.png]
+![Step2](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step2.png)
 ## Step 3:
 
 Main:
@@ -98,7 +98,7 @@ Math Functions:
 ```
 add_library(MathFunctions mysqrt.cxx)
 ```
-![https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step3.png]
+![Step3](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step3.png)
 ## Step 4:
 
 Main:
@@ -153,7 +153,7 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
 ```
-![https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step4.png]
+![Step4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step4.png)
 ## Step 5:
 
 Main:
@@ -246,4 +246,4 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
 
-![https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step5.png]
+![Step5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step5.png)
