@@ -32,13 +32,32 @@ Evaluation Factor | Level (0-2) | Evaluation Data
 | **Product Size** | 2 | YACS is 19.22 MB | 
 | **Issue Tracker** | 2 | Issues are actively being added and resolved |
 | **New Contributor** | 1 | There is a "Setup Guide" page present with information on installing, setting up and running Submitty. https://yacs.io/#/contributors/setup_guide Communication mechanisms may exist, however I was unable to find them after a long search. Additionally, I was unable to find a discussion platform for the project. There is a nice getting started page for new users to be able to jump in and contribute with ease, however. https://yacs.io/#/contributors/getting_started |
-| **Community Norms** | 1 | There is a Code of Conduct, which includes no discrimination on the basis of sex, race, or otherwise uncontrollable characteristics. Welcoming and encouraging new developers is emphasized in the CoC. Finally, avenues to report and correct unacceptable behaviors are readily available. Communication is primarily handled through git, which does not contain rude or inappropriate behavior. Beyond that, there does not seem to be communication avenues such as Slack that are easily accessible and available to users. |
-| **User Base** | 2 | The user base is RPI students looking to schedule courses. Given the clunky and hard-to-use design of RPI's SIS scheduling, this tool is greatly appreciated and utilized by nearly the entire student body to form and compare schedules. The instructions to download and utilize the software are clear and easy to access. Use of the software is also easy to find and understand. |
+| **Community Norms** | 1 | There is a Code of Conduct, which includes no discrimination on the basis of sex, race, or otherwise uncontrollable characteristics. Welcoming and encouraging new developers is emphasized in the CoC. Finally, avenues to report and correct unacceptable behaviors are readily available. Communication is primarily handled through git, which does not contain rude or inappropriate behavior. Beyond that, there does not seem to be communication avenues such as Slack that are easily accessible and available to users, unless users have access to the official RCOS slack. |
+| **User Base** | 2 | The user base is RPI students looking to schedule courses. One thing to note is that users do not use this often, but rather only about twice a year when forming schedules for the upcoming academic semester. Given the clunky and hard-to-use design of RPI's SIS scheduling, this tool is greatly appreciated and utilized by nearly the entire student body to form and compare schedules. The instructions to download and utilize the software are clear and easy to access. Use of the software is also easy to find and understand. |
 | **Total Score** | - | 15 |
+
+### 3. Chromium
+(https://chromium.googlesource.com/chromium/src)
+Official github mirror: (https://github.com/chromium/chromium)
+
+Chromium is a lightweight web browser utilizing sandbox security. 
+
+Evaluation Factor | Level (0-2) | Evaluation Data 
+|:-|:-:|:-|
+| **Licensing** | 2 | Chromium uses the BSD 3-Clause License, which is approved by the OSI |
+| **Language** | 2 | 1. C++ :: 2. Webcore :: 3. JavaScript (Percentages not available due to extremely large codebase size |
+| **Level of Activity** | 2 | All 4 quarters in the last year were active |
+| **Number of Contributors** | 2 | Chromium has an infinite symbol for number of contributors (too many to display) |
+| **Product Size** | 1 | Chromium is 12.15 GB, far too large for my purposes and understanding within the scope of this class | 
+| **Issue Tracker** | 2 | Issues are actively being added and resolved |
+| **New Contributor** | 2 | https://www.chromium.org/developers This page contains everything needed for new developers, including downloading and installing the environment, learning and getting around the codebase, communication mechanisms and discussion groups, and the Web presence.  |
+| **Community Norms** | 2 | There is a Code of Conduct, which begins by informing users to be respectful and constructive. https://www.chromium.org/conduct Harassment is defined clearly and concisely. Finally, avenues to report and correct unacceptable behaviors are readily available, along with information on consequences of failing to comply with the CoC. Communication is primarily handled through discussion groups, which does not contain rude or inappropriate behavior. |
+| **User Base** | 2 | The user base is everyone looking to use a fast, lightweight and secure web browser. The instructions to download and utilize the software are clear and easy to access. Use of the software is also easy to find and understand. |
+| **Total Score** | - | 17 |
  
 ## Part 2
 
-In this section I will analyze REPLACE_ME, which REPLACE_ME.
+In this section I further analyze Submitty.
 
 #### Licensing
 
