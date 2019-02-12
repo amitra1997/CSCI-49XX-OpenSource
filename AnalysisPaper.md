@@ -45,7 +45,7 @@ Chromium is a lightweight web browser utilizing sandbox security.
 Evaluation Factor | Level (0-2) | Evaluation Data 
 |:-|:-:|:-|
 | **Licensing** | 2 | Chromium uses the BSD 3-Clause License, which is approved by the OSI |
-| **Language** | 2 | 1. C++ :: 2. Webcore :: 3. JavaScript (Percentages not available due to extremely large codebase size |
+| **Language** | 2 | 1. C++ :: 2. Webcore :: 3. JavaScript (Percentages not available due to extremely large codebase size) |
 | **Level of Activity** | 2 | All 4 quarters in the last year were active |
 | **Number of Contributors** | 2 | Chromium has an infinite symbol for number of contributors (too many to display) |
 | **Product Size** | 1 | Chromium is 12.15 GB, far too large for my purposes and understanding within the scope of this class | 
