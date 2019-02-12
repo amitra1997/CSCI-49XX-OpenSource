@@ -1,3 +1,5 @@
+Note: If you have trouble reading this due to .md format please access here - https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/AnalysisPaper.md
+
 ## Part 1
 
 ### 1. Submitty
