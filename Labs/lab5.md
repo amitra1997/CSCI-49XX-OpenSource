@@ -254,34 +254,25 @@ install(FILES MathFunctions.h DESTINATION include)
 
 ```
 all: static_block dynamic_block
-
-clean:
-	rm -rf bin/*
-
 block.o: ${./source}/block.c
 	$(cc) $(-std=99 -Wall) -c ${./source}/block.c -o ${./bin}/block.o
-
-libblock_static.a: block.o
-	ar rcs ${./bin}/libblock_static.a ${./bin}/block.o
-
-libblock_dynamic.so: block.o
-	$(cc) -shared ${./bin}/block.o -o ${./bin}/libblock_dynamic.so
-
-program.o: ./program.c
 	$(cc) $(-std=99 -Wall) -c ./program.c -o ${./bin}/program.o
-
 static_block: program.o libblock_static.a
 	$(cc) ${./bin}/program.o -L${./bin} -lblock_static -o ${./bin}/static_block
-
 dynamic_block: program.o libblock_dynamic.so
 	$(cc) ${./bin}/program.o -L${./bin} -lblock_dynamic -o ${./bin}/dynamic_block
+libblock_static.a: block.o
+	ar rcs ${./bin}/libblock_static.a ${./bin}/block.o
+libblock_dynamic.so: block.o
+	$(cc) -shared ${./bin}/block.o -o ${./bin}/libblock_dynamic.so
+program.o: ./program.c
 ```
 
 ## Cmakelists.txt
 
 ```
 cmake_minimum_required(VERSION 2.6)
-project(lab5_build_example)
+project(lab5example)
 include_directories(headers)
 add_library(block_static STATIC source/block.c)
 add_library(block_dynamic SHARED source/block.c)
