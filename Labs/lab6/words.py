@@ -32,7 +32,7 @@ import gzip
 from string import ascii_lowercase as lowercase
 
 import networkx as nx
-
+from itertools import permutations
 #-------------------------------------------------------------------
 #   The Words/Ladder graph of Section 1.1
 #-------------------------------------------------------------------
@@ -47,7 +47,9 @@ def generate_graph(words):
             left, c, right = word[0:i], word[i], word[i + 1:]
             j = lookup[c]  # lowercase.index(c)
             for cc in lowercase[j + 1:]:
-                yield left + cc + right
+                perms = [''.join(p) for p in permutations(left + cc + right)]
+                for x in perms:
+                    yield x
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
     G.add_nodes_from(words)
@@ -58,13 +60,13 @@ def generate_graph(words):
 
 def words_graph():
     """Return the words example graph from the Stanford GraphBase"""
-    fh = gzip.open('words4_dat.txt.gz', 'r')
+    fh = gzip.open('words_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
         line = line.decode()
         if line.startswith('*'):
             continue
-        w = str(line[0:4])
+        w = str(line[0:5])
         words.add(w)
     return generate_graph(words)
 
@@ -77,8 +79,10 @@ if __name__ == '__main__':
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
 
-    for (source, target) in [('cold', 'warm'),
-                             ('love', 'hate')]:
+    for (source, target) in [('chaos', 'order'),
+                             ('nodes', 'graph'),
+                             ('moron', 'smart'),
+                             ('pound', 'marks')]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
