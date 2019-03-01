@@ -9,7 +9,7 @@ project(Tutorial)
 
 add_executable(Tutorial tutorial.cxx)
 ```
-![Step1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step1.png)
+![Step1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5/lab5pics/step1.png)
 ## Step 2: 
 
 Main:
@@ -47,7 +47,7 @@ Math Functions:
 ```
 add_library(MathFunctions mysqrt.cxx)
 ```
-![Step2](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step2.png)
+![Step2](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5/lab5pics/step2.png)
 ## Step 3:
 
 Main:
@@ -98,7 +98,7 @@ Math Functions:
 ```
 add_library(MathFunctions mysqrt.cxx)
 ```
-![Step3](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step3.png)
+![Step3](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5/lab5pics/step3.png)
 ## Step 4:
 
 Main:
@@ -153,7 +153,7 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
 ```
-![Step4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step4.png)
+![Step4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5/lab5pics/step4.png)
 ## Step 5:
 
 Main:
@@ -246,7 +246,7 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
 
-![Step5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5pics/step5.png)
+![Step5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab5/lab5pics/step5.png)
 
 # Part 2
 
@@ -334,10 +334,10 @@ RM = /usr/local/Cellar/cmake/3.13.4/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/build
+CMAKE_SOURCE_DIR = /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/lab5/build
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/build
+CMAKE_BINARY_DIR = /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/lab5/Labs/lab5/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -366,9 +366,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/lab5/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Aditya/Documents/College/8\ -\ Spring\ 2019/Open\ Source\ Software/CSCI-49XX-OpenSource/Labs/lab5/lab5/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
