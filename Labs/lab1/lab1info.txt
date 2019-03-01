@@ -1,2 +1,2 @@
 https://github.com/amitra1997/CSCI-49XX-OpenSource
-https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab1.md
+https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab1/lab1.md
