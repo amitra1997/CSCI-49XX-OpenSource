@@ -11,11 +11,11 @@
 ![pic8](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/ggplot7.png)
 
 ## Multiple and Logistic Regression
-![pic1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult1.png)
-![pic2](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult2.png)
-![pic3](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult3.png)
-![pic4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult4.png)
-![pic5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult5.png)
+![pic1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult0.png)
+![pic2](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult1.png)
+![pic3](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult2.png)
+![pic4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult3.png)
+![pic5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/mult4.png)
 
 ## Observatory
 https://rcos.io/projects/schedj/schedj-frontend/profile
