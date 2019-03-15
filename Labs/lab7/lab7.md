@@ -1,4 +1,4 @@
-# Lab 6
+# Lab 7
 
 ## Data Visualization with ggplot2 (Part 1)
 ![pic1](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7pics/ggplot0.png)
