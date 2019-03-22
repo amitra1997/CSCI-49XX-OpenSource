@@ -23,10 +23,22 @@ You may see the tests run for a particular submission by viewing the "test" colu
 
 ![Failed Test](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/testfail.png)
 
-You can see the runtime, output, and reason for failure for all tests that failed under a particular submission. This helps debug by giving developers all of the data they need to debug.
+You can see the runtime, output, and reason for failure for all tests that failed under a particular submission. We can also see the full log, arguments and directory to debug.
 
 ![Similar Build](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/similar%20build.png)
 
 The dashboard is clean and error-free.
 
 ![ctest Experimental](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/ctest%20Experimental.png)
+
+When running the tests, 100% passed out of 81 tests run, as displayed in the screenshot above.
+
+## Checkpoint 3
+
+
+## Checkpoint 4
+
+
+
+## Checkpoint 5
+![Checkpoint 5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/check5.png)
