@@ -1,1 +1,3 @@
 https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab7/lab7.md
+
+Note: Blog post is contained in github repository rather than observatory as per our discussion in class, as SchedJ is already an existing RCOS project and I would not like to add a blog post to the project page.
