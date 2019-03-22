@@ -36,7 +36,7 @@ When running the tests, 100% passed out of 81 tests run, as displayed in the scr
 ## Checkpoint 3
 ![CMake Update](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/cmakeupdate.png)
 
-![New Test Failed](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/testfail.png)
+![New Test Failed](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/newtestfail.png)
 
 In the dashboard, we see the full log, arguments and directory to debug.
 
