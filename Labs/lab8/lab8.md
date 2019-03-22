@@ -34,11 +34,18 @@ The dashboard is clean and error-free.
 When running the tests, 100% passed out of 81 tests run, as displayed in the screenshot above.
 
 ## Checkpoint 3
+![CMake Update](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/cmakeupdate.png)
 
+![New Test Failed](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/testfail.png)
+
+In the dashboard, we see the full log, arguments and directory to debug.
 
 ## Checkpoint 4
+![Fixed Test](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/testfix.png)
 
+To fix the code, updated the value to 2 where it was 4 before in the screenshot above.
 
+![Terminal Output](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/terminalfix.png)
 
 ## Checkpoint 5
 ![Checkpoint 5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab8/lab8pics/check5.png)
