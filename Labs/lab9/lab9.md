@@ -37,3 +37,16 @@
 ![localhost:5000](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/localhost.png)
 
 ## Example 4
+### Build docker-compose
+![Build docker-compose](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/builddc.png)
+
+### docker-compose up
+![docker-compose up](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/dockercompose.png)
+
+### frontend at localhost:4200
+![frontend](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/frontend.png)
+
+Note: stuck on loading... for some reason
+
+### backend at localhost:5000
+![backend](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/backend.png)
