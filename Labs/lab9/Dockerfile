@@ -1,21 +1,21 @@
-# Comments in Dockerfiles
-FROM python:3.7.3
+# Use node 10.15.3 LTS
+FROM node:10.15.3
+ENV LAST_UPDATED 20190325T175400
 
-# Update and install dependencies
-RUN apt-get update
-RUN pip install Flask
+# Copy source code
+COPY . /app
 
-# Add code
-ADD . /opt/webapp/
+# Change working directory
+WORKDIR /app
 
-# Set the working directory
-WORKDIR /opt/webapp
+# Install dependencies
+RUN npm install
 
-# Set environment variables
-ENV FLASK_APP=hello.py
+# Fix up some of the issues
+RUN npm audit fix
 
-# Expose the application's port
-EXPOSE 5000
+# Expose API port to the outside
+EXPOSE 1337
 
-# Run the application
-CMD ["flask", "run", "--host=0.0.0.0"]
+# Launch application
+CMD ["node","app.js"]
