@@ -46,7 +46,7 @@
 ### frontend at localhost:4200
 ![frontend](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/frontend.png)
 
-Note: stuck on loading... for some reason
+Note: displays loading... for some reason. Not sure if this is the intended behavior.
 
 ### backend at localhost:5000
 ![backend](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab9/lab9pics/backend.png)
