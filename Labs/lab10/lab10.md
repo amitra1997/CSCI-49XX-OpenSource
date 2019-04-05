@@ -17,6 +17,7 @@
 ![Git Diff](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/lab10pics/check3git.png)
 
 ## Checkpoint 4
-
+![Checkpoint 4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/lab10pics/check4.png)
 
 ## Checkpoint 5
+![Checkpoint 5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/lab10pics/check5.png)
