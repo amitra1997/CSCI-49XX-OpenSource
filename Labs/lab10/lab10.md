@@ -19,5 +19,9 @@
 ## Checkpoint 4
 ![Checkpoint 4](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/lab10pics/check4.png)
 
+[checkpoint4.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/checkpoint4.py)
+
 ## Checkpoint 5
 ![Checkpoint 5](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/lab10pics/check5.png)
+
+[checkpoint5.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab10/checkpoint5.py)
