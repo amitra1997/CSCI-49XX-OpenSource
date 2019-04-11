@@ -11,4 +11,9 @@
 [checkpoint2.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/checkpoint2.py)
 
 ## Checkpoint 3
-![]
+![Coat](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/coat1.jpg)
+![Coat Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/coat.jpg)
+![Shirt](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirt1.jpg)
+![Shirt Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirt.jpg)
+![Shoe](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoe1.jpg)
+![Shoe Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoe.jpg)
