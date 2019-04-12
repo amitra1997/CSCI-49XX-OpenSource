@@ -39,7 +39,7 @@
 ### Sneaker Results
 ![Sneaker Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeResults.png)
 
-3 for 3 on the predictions! Nice!
+#### 3 for 3 on the predictions! Nice!
 
 [imageModifier.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/imageModifier.py)
 
