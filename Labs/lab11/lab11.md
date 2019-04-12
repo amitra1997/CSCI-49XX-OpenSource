@@ -19,7 +19,7 @@
 ![Coat Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/coatMod.jpg)
 
 ### Coat Results
-![Coat Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/coatResults.jpg)
+![Coat Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/coatResults.png)
 
 ### Shirt Original
 ![Shirt](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirt.jpg)
@@ -28,7 +28,7 @@
 ![Shirt Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirtMod.jpg)
 
 ### Shirt Results
-![Shirt Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirtResults.jpg)
+![Shirt Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shirtResults.png)
 
 ### Sneaker Original
 ![Shoe](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoe.jpg)
@@ -37,7 +37,7 @@
 ![Shoe Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeMod.jpg)
 
 ### Sneaker Results
-![Sneaker Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeResults.jpg)
+![Sneaker Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeResults.png)
 
 [imageModifier.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/imageModifier.py)
 
