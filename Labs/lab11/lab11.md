@@ -37,7 +37,7 @@
 ![Shoe Modified](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeMod.jpg)
 
 ### Sneaker Results
-![Sneaker Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/sneakerResults.jpg)
+![Sneaker Results](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/lab11pics/shoeResults.jpg)
 
 [imageModifier.py](https://github.com/amitra1997/CSCI-49XX-OpenSource/blob/master/Labs/lab11/imageModifier.py)
 
